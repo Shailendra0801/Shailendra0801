@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello There 🙏, I'm Shailendra Singh Bisht 👨‍💻
-<img width="100%" src="./Assets/nWall.jpg" />
+<img width="100%" height="55%" src="./Assets/nWall.jpg" />
 
 </div>
 
