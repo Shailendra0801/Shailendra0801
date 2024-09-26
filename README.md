@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello There 🙏, I'm Shailendra Singh Bisht 👨‍💻
-<img width="100%" src="./Assets/wall.jpg" />
+<img width="100%" src="./Assets/nWall.jpg" />
 
 </div>
 
@@ -20,7 +20,7 @@
 ### 🛸 Welcome to my Github page !    
 
 
-### Computer: Programming languages and tools: 
+### Programming languages and tools: 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50 rem/>  
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height= 50 rem/>   
